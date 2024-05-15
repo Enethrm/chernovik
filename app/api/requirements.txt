@@ -1,0 +1,9 @@
+fastapi
+torch
+numpy 
+opencv-contrib-python
+glob2
+torchvision
+matplotlib
+scikit-image
+h5py
